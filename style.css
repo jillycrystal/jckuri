@@ -1476,7 +1476,7 @@ pre{margin-top:0;margin-bottom:0;font-family:"SFMono-Regular",Consolas,"Liberati
 .markdown-body dl{padding:0}
 .markdown-body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:600}
 .markdown-body dl dd{padding:0 16px;margin-bottom:16px}
-.markdown-body table{display:block;width:100%;overflow:auto}
+.markdown-body table{width:100%;overflow:auto}
 .markdown-body table th{font-weight:600}
 .markdown-body table th,.markdown-body table td{padding:6px 13px;border:1px solid #dfe2e5}
 .markdown-body table tr{background-color:#fff;border-top:1px solid #c6cbd1}
